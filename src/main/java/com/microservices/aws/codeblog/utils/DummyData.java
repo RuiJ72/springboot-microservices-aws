@@ -3,7 +3,6 @@ package com.microservices.aws.codeblog.utils;
 
 import com.microservices.aws.codeblog.model.Post;
 import com.microservices.aws.codeblog.repository.CodeblogRepository;
-import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
